@@ -4,7 +4,7 @@ score=0
 high_score=0
 wn=turtle.Screen()
 wn.title('Snake Game')
-wn.bgcolor('yellow')
+wn.bgcolor('light green')
 wn.setup(width=600,height=600)
 wn.tracer(0)
 head=turtle.Turtle()
